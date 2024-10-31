@@ -1,0 +1,215 @@
+# Translation of Plugins - nps-computy - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - nps-computy - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-14 07:18+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.1.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - nps-computy - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Author of the plugin/theme
+msgid "computy"
+msgstr "Компьюти"
+
+#. Description of the plugin/theme
+msgid "Free monitoring of the NPS index (NPS) for your business. Simply add the shortcode [nps-computy] to the right place on the site, the rest of the work we will do for you."
+msgstr "Бесплатный мониторинг индекса NPS (NPS) для вашего бизнеса. Просто добавьте короткий [NPS-вычислительной] в нужное место на сайте, остальную часть работы мы сделаем сами."
+
+#: index.php:198
+msgid "Send"
+msgstr "Отправить"
+
+#: index.php:129
+msgid "The question is mandatory"
+msgstr "Этот вопрос является обязательным"
+
+#: class.nps-computy-admin.php:452
+msgid "Evaluation is accepted! Thank you for the highest score! "
+msgstr "Оценка принята! Благодарим вас за высокий балл!"
+
+#: class.nps-computy-admin.php:448
+msgid "Thank you for rating! We will consider your wishes!  "
+msgstr "Спасибо за оценку! Мы учтем Ваши пожелания."
+
+#: class.nps-computy-admin.php:437
+msgid "What you need to do to evaluate 10: "
+msgstr "Что нужно сделать, чтобы Вы оценили нас на 10?"
+
+#: class.nps-computy-admin.php:437
+msgid "Suggestions for improvement:  "
+msgstr "Ваши предложения по улучшению:"
+
+#: class.nps-computy-admin.php:436
+msgid "Rating: "
+msgstr "Рейтинг:"
+
+#: class.nps-computy-admin.php:436
+msgid "Date: "
+msgstr "Дата:"
+
+#: class.nps-computy-admin.php:435
+msgid "New assessment of NPS"
+msgstr "Новая оценка NPS"
+
+#: class.nps-computy-admin.php:382
+msgid "What should be improved to evaluate 10?"
+msgstr "Что следует улучшить для оценки 10?"
+
+#: class.nps-computy-admin.php:382
+msgid "Suggestions"
+msgstr "Предложения"
+
+#: class.nps-computy-admin.php:382
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: class.nps-computy-admin.php:381
+msgid "Date of poll"
+msgstr "Дата опроса"
+
+#: class.nps-computy-admin.php:379
+msgid "Output of data obtained as a result of a survey"
+msgstr "Результат данных, полученных в результате опроса"
+
+#: class.nps-computy-admin.php:343
+msgid "Neutral"
+msgstr "Нейтральные"
+
+#: class.nps-computy-admin.php:334
+msgid "Critics"
+msgstr "Критики"
+
+#: class.nps-computy-admin.php:325
+msgid "Supporters"
+msgstr "Поддержка"
+
+#: class.nps-computy-admin.php:306
+msgid "<p style='font-size: 20px'>Total participated %d "
+msgid_plural "clients"
+msgstr[0] "Всего участвовал %d"
+msgstr[1] "Всего участвовало %d"
+msgstr[2] "Всего участвовало %d"
+
+#: class.nps-computy-admin.php:304
+msgid "Еще ни кто не учавствовал в опросе!"
+msgstr "Еще ни кто не учавствовал в опросе!"
+
+#: class.nps-computy-admin.php:295
+msgid "Received data on your site"
+msgstr "Полученные данные на вашем сайте"
+
+#: class.nps-computy-admin.php:287
+msgid ""
+"<p> <b> NPS Customer Loyalty Index </b> (Net Promoter Score, Net Support Index) is easy to calculate\n"
+"             a metric aimed at assessing the loyalty of customers of the company or buyers of any product.\n"
+"             It is believed that the NPS index is closely correlated with the company's revenues and the company with a high NPS indicator has\n"
+"             the tendency to grow much faster than its competitors. </p> <p> By polling we get the data that is further processed. </p>"
+msgstr ""
+"<b>Индекс лояльности клиентов NPS</b> (Net Promoter Score, индекс чистой поддержки) – это простая в расчете\n"
+"            метрика,\n"
+"            направленная на оценку лояльности клиентов компании или покупателей какого-либо товара.\n"
+"            Считается, что индекс NPS тесно коррелирует с доходами компании и компания с высоким показателем NPS имеет\n"
+"            тенденцию расти намного быстрее, чем ее конкуренты. </p>"
+
+#: class.nps-computy-admin.php:286
+msgid "Описание плагина"
+msgstr "Описание плагина"
+
+#: class.nps-computy-admin.php:270
+msgid " In the code editor, insert the <b> [nps-computy] </b> shortcode in the right place and the plug-in is ready for use.<br>If you want to insert directly into the site code, then paste this code:<b> &#60;?php echo do_shortcode( '[nps-computy]' ); ?&#62;</b>"
+msgstr "В редакторе кода вставляете шорткод <b> [nps-computy] </b> в нужном месте и плагин готов к работе.<br>Если хотите вставить прямо в код сайта, то вставляете этот код:<b> &#60;?php echo do_shortcode( '[nps-computy]' ); ?&#62;</b>"
+
+#: class.nps-computy-admin.php:268 class.nps-computy-admin.php:269
+msgid "Configuring the Plugin"
+msgstr "Настройка плагина"
+
+#: class.nps-computy-admin.php:264
+msgid "With the support of <a href=\"https://computy.ru\" target=\"_blank\" title=\"Development and support of sites on WordPress\"> Computy </a>"
+msgstr "При поддержке <a href=\"https://computy.ru\" target=\"_blank\" title=\"Разработка и поддержка сайтов на WordPress\"> Компьюти </a>"
+
+#: class.nps-computy-admin.php:188 index.php:117
+msgid "Excuse me! You have already passed the vote. If you forgot to supplement your feedback, write to us via feedback."
+msgstr "Извините! Вы уже проходили голосование. Если вы забыли дополнить свой отзыв, напишите нам через обратную связь."
+
+#: class.nps-computy-admin.php:169 class.nps-computy-admin.php:460
+msgid "Evaluation is accepted! Thank you for the highest score!"
+msgstr "Оценка принята! Спасибо за высший балл!"
+
+#: class.nps-computy-admin.php:150
+msgid "Thank you for the assessment! We take into account your wishes!"
+msgstr "Спасибо за оценку! Мы принимаем во внимание ваши пожелания!"
+
+#: class.nps-computy-admin.php:131 index.php:109
+msgid "What do we need to improve in our work so that you can rate us 10?"
+msgstr "Что нам нужно улучшить в нашей работе, чтобы вы могли оценить нас 10?"
+
+#: class.nps-computy-admin.php:112 index.php:113
+msgid "Our bachelors to improve the quality of our services (additional services, etc.)"
+msgstr "Baши пpeдлoжeния пo улучшeнию кaчecтвa нaшeй paбoты (дoпoлнитeльныe уcлуги и т.д.)"
+
+#: class.nps-computy-admin.php:94 index.php:101
+msgid "Please, assess the scale from 0 to 10, just as often as you think you need another or a collar?"
+msgstr "Пoжaлуйcтa, oцeнитe пo шкaлe oт 0 дo 10, нacкoлькo вepoятнo, чтo Bы пopeкoмeндуeтe нac дpугу или кoллeгe?"
+
+#: class.nps-computy-admin.php:75 index.php:97
+msgid "Net Promoter Score (NPS)"
+msgstr "NPS"
+
+#: class.nps-computy-admin.php:54
+msgid "After how many days can the customer again be interviewed?"
+msgstr "Через сколько дней можно вновь проходит опрос клиену?"
+
+#: class.nps-computy-admin.php:53
+msgid "Pop-up text if the client has already polled"
+msgstr "Всплывающий текст, если клиент уже проходил опрос"
+
+#: class.nps-computy-admin.php:52
+msgid "Thank you text for the highest score"
+msgstr "Спасибо за самый высокий балл"
+
+#: class.nps-computy-admin.php:51
+msgid "Thank-you text after the client's response"
+msgstr "Текст благодарности после ответа клиента"
+
+#: class.nps-computy-admin.php:50
+msgid "The text of the question that needs improvement (If answer from 0-9)"
+msgstr "Текст вопроса что надо улучшить(Если отвечают от 0-9)"
+
+#: class.nps-computy-admin.php:49
+msgid "The text of the proposal for improving the quality"
+msgstr "Текст предложения по улучшению качества"
+
+#: class.nps-computy-admin.php:48
+msgid "Text under the title"
+msgstr "Текст после заголовока"
+
+#: class.nps-computy-admin.php:47
+msgid "Title"
+msgstr "Заголовок"
+
+#: class.nps-computy-admin.php:46
+msgid "Text output settings"
+msgstr "Настройки вывода текста"
+
+#: class.nps-computy-admin.php:24 class.nps-computy-admin.php:262
+msgid "NPS Monitoring"
+msgstr "NPS Мониторинг"
+
+#. Author URI of the plugin/theme
+msgid "https://computy.ru"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://computy.ru/blog/plagin-nps-indeks-loyalnosti-klientov-dlya-wordpress/"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NPS computy"
+msgstr ""
